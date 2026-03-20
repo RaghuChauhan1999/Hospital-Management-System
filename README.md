@@ -29,6 +29,26 @@ This project demonstrates real-world hospital management operations using Java a
 
 ---
 
+## 📸 Screenshots
+
+### Menu Screen
+
+![Menu Screen](screenshots/Menu.png)
+
+### Patients List
+
+![Patient List](screenshots/PatientList.png)
+
+### Doctors List
+
+![Doctors List](screenshots/DoctorsList.png)
+
+### Appointment Output
+
+![Appointment Output](screenshots/appointment.png)
+
+---
+
 ## ▶️ Run Locally
 
 1. Clone the repository
